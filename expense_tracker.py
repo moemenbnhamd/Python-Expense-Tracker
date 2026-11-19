@@ -24,10 +24,6 @@ print(f"Total : {total:.2f}")
 
 
 
-
-def show_total():
-# Travail de l'etudiant B
-pass
 def main():
 while True:
 print("\n===== SUIVI DES DEPENSES =====")
